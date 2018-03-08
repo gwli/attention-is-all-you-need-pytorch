@@ -1,4 +1,5 @@
 ''' Handling the data io '''
+# -*- coding:utf8 -*-
 import argparse
 import torch
 import transformer.Constants as Constants
